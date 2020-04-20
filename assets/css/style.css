@@ -1,0 +1,57 @@
+.black {
+  background: rgb(44, 44, 44);
+}
+
+.intro {
+  font-size: 30px;
+}
+
+.makeWhite {
+  color: white;
+}
+
+.leftEntire {
+  background: rgb(246, 246, 246);
+}
+.leftSide {
+  width: 100%;
+}
+.leftPanel {
+  padding: 16px;
+}
+.newCityArea {
+  border-radius: 4px;
+  border: 1px solid #dfdfdf;
+  overflow: hidden;
+}
+.cityButton {
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #dfdfdf;
+  background: white;
+  color: #333333;
+  padding: 8px 0;
+  transition: all 0.3s ease;
+}
+
+.hideBorder {
+  border: none;
+}
+.cityButton:hover {
+  background: #f3f5ff;
+}
+.cityButton:last-of-type {
+  border: none;
+}
+
+.rightSidePanel {
+  margin-left: 20px;
+}
+
+h1 {
+  font-size: 48px;
+}
+#forecastTitle {
+  font-size: 20px;
+}
